@@ -1,0 +1,13 @@
+body,ul,li,form,input,textarea{margin:0%;padding:0%;font:12px arial;}
+img{border:0px;}
+ul{list-style:none;margin:0%;}
+a{text-decoration:none;color:#0008B2;}
+a:hover{text-decoration:underline;} a:hover,a:active,a:focus{outline:0 none;}
+input{ width:80px; font:normal 12px Arial, Helvetica, sans-serif; border:#003333 1px solid}
+h1,h2,h3{margin:0%;padding:0%;font-size:100%;}
+.ins{ width:800px; overflow:hidden; padding-left:10px; padding-top:5px}
+.grilla{ width:760px ; overflow:hidden; padding-top:5px ; padding-bottom:5px}
+.cabecera{ width:120px; overflow:hidden; float:left; background:#003333; color:#FFFFFF; padding-top:5px ; padding-bottom:5px}
+.detalle{ width:120px; overflow:hidden; float:left; padding-top:5px ; padding-bottom:5px}
+.clear{ clear:both}
+.separacion{ width:720px; border-top:#666666 1px solid; overflow:hidden; height:1px}
